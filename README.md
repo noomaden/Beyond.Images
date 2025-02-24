@@ -1,2 +1,2 @@
 # BeyondImages
-Investigation of releation between Art and Theology
+Investigation of relation between Art and Theology
